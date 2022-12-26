@@ -1,0 +1,17 @@
+{
+    "name": "doyoque/coldspaze",
+    "description": "\"Coldspaze technical test\"",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Doyoque\\Coldspaze\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Abiyoga"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
